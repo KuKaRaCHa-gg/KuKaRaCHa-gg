@@ -11,7 +11,7 @@
   - GitHub: [@KuKaRaCHa-gg](https://github.com/KuKaRaCHa-gg)  
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact:  
-  - I balance my work and studies with interests like **gaming**, **watching anime**, and **learning new languages** (currently improving my English and dabbling in Chinese).  
+  - I balance my work and studies with interests like **gaming**, **watching anime**, and **learning new languages** (currently improving my English ).  
   - I’m also a fitness enthusiast who loves **musculation and running**, even if I sometimes train at home with just dumbbells and a gym mat.  
 
 ---
