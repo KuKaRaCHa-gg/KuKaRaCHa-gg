@@ -133,8 +133,8 @@
 ---
 
 ## 🌎 Languages
-- **French**: Native
-- **Russian**: Fluent
+- **French**:  Fluent
+- **Russian**: Native
 - **English**: A2+ (Commercial Level)
 - **Spanish**: A2 (Elementary)
 
