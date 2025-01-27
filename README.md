@@ -1,7 +1,7 @@
 # 👋 Welcome to my profile!
 
 ## 🧑‍💻 About Me
-- 🔭 I’m **Daniil Minevich**, a **19-year-old junior developer** and student in my **second year of BUT Informatique** at the **IUT of Laval**.
+- 🔭 I’m **Daniil Minevich**, a **20-year-old junior developer** and student in my **second year of BUT Informatique** at the **IUT of Laval**.
 - 🌱 I’m passionate about **full-stack development**, **creative problem-solving**, and using technology to bridge imagination and functionality.
 - 💼 **Current Work**: I’m working in **alternance (work-study program)** as a **developer at Séché Alliance**, contributing to system tools, intranet redesign, and workstation supervision.
 
