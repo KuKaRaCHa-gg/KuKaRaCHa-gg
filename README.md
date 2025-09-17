@@ -14,7 +14,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Studying **BUT Informatique** at IUT de Laval (2023–2025, 2nd year)
+- 🎓 Studying **BUT Informatique** at IUT de Laval (2023–2025, 3nd year)
 - 💼 **Alternance Developer** at Séché Alliance, working on system tools, intranet redesign, and workstation supervision
 - 🌱 Passionate about **full-stack development**, **problem-solving**, and **innovative tech solutions**
 - 📋 Qualities: Patient, Perseverant, Good Listener
