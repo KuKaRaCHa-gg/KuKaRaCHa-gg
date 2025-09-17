@@ -74,7 +74,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KuKaRaCHa-gg.KuKaRaCHa-gg" alt="Visitor Badge" />
 </p>
-*Note: For accurate WakaTime stats, link WakaTime to your IDE (e.g., VS Code, IntelliJ).*
+
 
 ---
 
