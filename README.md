@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-20-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Bonchamp--lès--Laval-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Alternance%20Developer-red?style=for-the-badge" />
 </p>
 
@@ -147,7 +146,6 @@
 ## 📬 Contact
 <p align="center">
   <a href="mailto:daniil.minevich2005@gmail.com"><img src="https://img.shields.io/badge/Email-daniil.minevich2005@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Phone-+33%206%2059%2035%2074%2052-green?style=for-the-badge&logo=phone&logoColor=white" />
 </p>
 
 ---
