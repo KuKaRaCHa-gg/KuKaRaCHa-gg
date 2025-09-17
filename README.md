@@ -4,7 +4,7 @@
 </p>
 
 # 👨‍💻 Daniil Minevich
-*20-year-old Junior Developer | 2nd Year BUT Informatique | IUT de Laval*
+*20-year-old Junior Developer | 3nd Year BUT Informatique | IUT de Laval*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-20-blue?style=for-the-badge" />
