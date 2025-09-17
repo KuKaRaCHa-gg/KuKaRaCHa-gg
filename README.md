@@ -1,84 +1,102 @@
-<!-- Profil Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=250&section=header&text=Daniil%20Minevich&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Junior%20Full-Stack%20Developer&descAlignY=55&descAlign=50" />
-</p>
-
-# 👋 Welcome to My Profile  
-
-## 🧑‍💻 About Me
-- 🎓 20-year-old **Junior Developer**, currently in **2nd year BUT Informatique** at **IUT de Laval**.  
-- 💼 Working in **alternance** at **Séché Alliance** as a developer.  
-- 🌱 Passionate about **full-stack development**, **creative problem-solving**, and **bridging imagination with functionality**.  
-
----
-
-## 🛠️ I Code With
-<p align="center">
-  <!-- Badges des langages et outils -->
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,bash,html,css,mysql,git,linux,figma,vscode,idea,eclipse" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=250&section=header&text=Daniil%20Minevich&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%7C%20BUT%20Informatique%20%7C%20IUT%20de%20Laval&descAlignY=55&descAlign=50" />
 </p>
 
 ---
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuKaRaCHa-gg&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuKaRaCHa-gg&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
+# 👨‍💻 Développeur Junior | Étudiant en BUT Informatique
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuKaRaCHa-gg&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=KuKaRaCHa-gg&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuKaRaCHa-gg&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://img.shields.io/badge/Age-19%20ans-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ville-Bonchamp--lès--Laval-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statut-Alternant-red?style=for-the-badge" />
 </p>
 
 ---
 
-## 📚 Education
-- 🎓 **BUT Informatique – IUT de Laval** *(2023–2025)*  
-- 🎓 **Baccalauréat STI2D – Lycée Réaumur, Laval** *(2020–2023, Mention Assez Bien)*  
+## 🛠️ Compétences
+<p align="center">
+  <!-- Langages -->
+  <img src="https://skillicons.dev/icons?i=java,js,c,python,bash,html,css" /><br/>
+  <!-- Requêtes / BDD -->
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML-02569B?style=for-the-badge&logo=uml&logoColor=white" /><br/>
+  <!-- IDE -->
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" /><br/>
+  <!-- UI / UX -->
+  <img src="https://skillicons.dev/icons?i=figma" /><br/>
+  <!-- Multimédia -->
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-FF9E0F?style=for-the-badge&logo=blackmagicdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /><br/>
+  <!-- Collaboration -->
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://img.shields.io/badge/Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /><br/>
+  <!-- OS -->
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+  <img src="https://img.shields.io/badge/Debian-DC143C?style=for-the-badge&logo=debian&logoColor=white" /><br/>
+  <!-- Hardware -->
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://img.shields.io/badge/Hardware-F7DF1E?style=for-the-badge&logo=hardware&logoColor=black" />
+</p>
 
 ---
 
-## 💼 Work Experience
-- **Developer Alternance – Séché Alliance** (2023–Present)  
-  🛠️ PC tools, intranet redesign, workstation supervision.  
-- **IT Intern – ESIEA** (2019)  
-  💻 Hardware & PC support.  
-- **IT Intern – ASGL Conseil** (2020)  
-  🔧 Remote server maintenance & arcade diagnostics.  
+## 💼 Expériences
+<p align="center">
+  <img src="https://img.shields.io/badge/Alternance-Séché%20Alliance-red?style=for-the-badge&logo=codereview&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Stage-ESIEA-blue?style=for-the-badge&logo=serverfault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stage-ASGL_Conseil-green?style=for-the-badge&logo=serverless&logoColor=white" />
+</p>
 
 ---
 
-## 🔥 Projects
-- 🌐 [Portfolio Website](https://github.com/KuKaRaCHa-gg/Portfolio)  
-- 📊 Database & FXML University project  
-- 🏛️ Museum Database project  
+## 🎓 Formations
+<p align="center">
+  <img src="https://img.shields.io/badge/BUT-Informatique-orange?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/BAC-STI2D%20(Mention%20AB)-yellow?style=for-the-badge&logo=school&logoColor=black" />
+</p>
 
 ---
 
-## 🎯 Hobbies
-🎮 Gaming (FPS / Survival / Strategy)  
-🏋️ Fitness (gym & home workouts)  
-📺 Anime & Manga collector  
-🔌 Arduino & Hardware tinkering  
+## 🌍 Langues
+<p align="center">
+  <img src="https://img.shields.io/badge/Français-Courant-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Russe-Natif-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Anglais-A2%2B-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Espagnol-A2-green?style=for-the-badge" />
+</p>
 
 ---
 
-## 🌐 Languages
-🇫🇷 French – Fluent  
-🇷🇺 Russian – Native  
-🇬🇧 English – A2+ (Commercial)  
-🇪🇸 Spanish – A2  
+## 🎯 Qualités
+<p align="center">
+  <img src="https://img.shields.io/badge/Patient-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/À_l'écoute-lightblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Persévérant-orange?style=for-the-badge" />
+</p>
 
 ---
 
-## 📬 Contact Me
-📧 [daniil.minevich2005@gmail.com](mailto:daniil.minevich2005@gmail.com)  
-📱 +33 6 59 35 74 52  
+## 🎮 Centres d’intérêts
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮-Jeux%20Vidéo%20(FPS/Survival/Stratégie)-purple?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/🏋️-Musculation-red?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/📺-Anime%20&%20Manga-pink?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/🔌-Électronique-cyan?style=for-the-badge" />
+</p>
+
+---
+
+## 📬 Contact
+<p align="center">
+  <img src="https://img.shields.io/badge/📧-daniil.minevich2005@gmail.com-red?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/📱-06%2059%2035%2074%2052-green?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/📍-8%20impasse%20Ronsard,%2053960%20Bonchamp-lès-Laval-blue?style=for-the-badge" />
+</p>
 
 ---
 
