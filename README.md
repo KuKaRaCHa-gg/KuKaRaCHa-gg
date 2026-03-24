@@ -19,7 +19,6 @@
 📍 **Localisation** - France  
 🌐 **Portfolio** - [daniilminevich.com](https://daniilminevich.com)
 
-> 🔥 Passionné de développement web, applications mobiles et automatisation. Toujours en quête d'apprendre de nouvelles technologies !
 
 ---
 
@@ -52,64 +51,7 @@
 
 ---
 
-## 🎮 Projets Récents
 
-### 🖥️ [Portfolio Terminal V2](https://github.com/KuKaRaCHa-gg/PortfolioV2)
-> Portfolio React avec design terminal rétro (Matrix style)
-- ✨ Animations 3D avec Three.js
-- 🔊 Système de sons synthétiques
-- 🎮 5 mini-jeux intégrés (Tetris, Snake, Pong, Game of Life, Maze)
-- 📱 100% Responsive
-
-**Tech**: `React` `Vite` `Three.js` `Web Audio API`
-
----
-
-### 📊 [Simple Progress Tracker](https://github.com/KuKaRaCHa-gg/simple-progress-tracker)
-> Plugin Obsidian pour tracker sa progression personnelle avec stats et niveaux
-- 📈 Visualisations de progression
-- 🏆 Système de niveaux et XP
-- 📊 Statistiques détaillées
-
-**Tech**: `TypeScript` `Obsidian API`
-
----
-
-### 🗺️ [GeoMoHi](https://github.com/KuKaRaCHa-gg/GeMoHi)
-> Jeu utilisant l'API Google Maps
-- 🌍 Intégration Google Maps
-- 🎮 Gameplay basé sur la géolocalisation
-
-**Tech**: `Kotlin` `Google Maps API`
-
----
-
-### 🐳 [LogisticoTrain](https://github.com/KuKaRaCHa-gg/LogisticoTrain)
-> Projet Docker pour apprendre la conteneurisation
-- 📦 Architecture multi-containers
-- 🔧 Configuration Docker Compose
-
-**Tech**: `Java` `Docker`
-
----
-
-### 🛠️ [CSV Generator](https://github.com/KuKaRaCHa-gg/CSV-GENERATOR)
-> Générateur de fichiers CSV en Python
-- 📄 Export de données structurées
-- 🐍 Scripts automatisés
-
-**Tech**: `Python`
-
----
-
-### 💻 [SCCM/MECM Tools](https://github.com/KuKaRaCHa-gg/SCCM-MECM-DELETE-PCS)
-> Scripts PowerShell pour gestion SCCM/Active Directory
-- 🖥️ Automatisation suppression PCs
-- 🔧 Scripts AD
-
-**Tech**: `PowerShell`
-
----
 
 ## 📊 GitHub Stats
 
@@ -132,11 +74,6 @@
 
 ---
 
-## 🏢 Organisations
-
-- [@BUT-Info-2-IUT-Laval-24-25-DevWeb](https://github.com/BUT-Info-2-IUT-Laval-24-25-DevWeb)
-
----
 
 ## 📫 Contact
 
