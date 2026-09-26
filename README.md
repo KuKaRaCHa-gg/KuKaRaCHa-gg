@@ -13,7 +13,7 @@
 
 ## À propos
 
-Étudiant en 3e année d'école d'ingénieur informatique (BUT Informatique, IUT Laval), en alternance chez **Séché Alliance**.
+Étudiant en 3e année à l'**ESIEA** (cycle ingénieur, filière FISA - apprentissage), en alternance chez **Séché Alliance**.
 Je m'oriente vers les systèmes distribués, l'automatisation d'infrastructure et l'IA locale/embarquée — en cours de construction d'un socle de projets dans ce sens.
 
 ---
